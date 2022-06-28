@@ -1,5 +1,5 @@
 # NotNameBot
-An -up to now- nameless robot based on the Robotics Operating System (ROS).
+An -up to now- nameless robot based on the Robotics Operating System (ROS). (updated repo [here](https://github.com/YoungKippur?tab=repositories))
 
 ## ROS important commands (WIP)
 * ```roscore``` to start ROS environment (always first command).
